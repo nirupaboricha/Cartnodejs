@@ -1,2 +1,2 @@
 # Cartnodejs
-Simple cart using nodejs and express
+Developed this project while learning Web-frontend technologies. In this project I have used HTML, CSS , JavaScript, Express and NodeJS. It is based on shopping cart where a user can add multiple items to a checkout page and customize according to their choice. After adding items to the cart, the user can checkout to a page where they can enter all the information like their Name, address and bank details for the payment.
